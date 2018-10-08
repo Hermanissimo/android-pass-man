@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PassMan</string>
+    <string name="type_master_password">Your master password</string>
+    <string name="create_master_password">Create your master password</string>
+    <string name="confirm_master_password">Confirm your master password</string>
+    <string name="login">Login</string>
+
+    <string name="error_password_mismatch">Passwords don\'t match</string>
+    <string name="error_password_wrong">Password is wrong</string>
+    <string name="error_label_empty">Please add a label for this password.</string>
+    <string name="error_username_empty">Please add a username for this password.</string>
+    <string name="error_password_empty">Password can not be empty.</string>
+    <string name="toast_save_success">Password saved</string>
+    <string name="toast_save_error">Error occurred while trying to save passwords</string>
+
+    <string name="label">Label</string>
+    <string name="username">Username</string>
+    <string name="username_label">Username:</string>
+    <string name="password">Password</string>
+    <string name="password_label">Password:</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="dialog_delete_title">Confirm Delete?</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this password?</string>
+    <string name="copied_to_clipboard">%s copied to clipboard</string>
+    <string name="title_edit_password">Edit Password</string>
+    <string name="title_view_password">View Password</string>
+    <string name="title_login">Login</string>
+</resources>
